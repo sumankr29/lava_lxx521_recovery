@@ -8,6 +8,20 @@
 
 </div>
 
+> ## 🚨 STRICT WARNING — READ BEFORE PROCEEDING
+>
+> **This guide is intended for users who are already familiar with custom recovery and custom ROM installation.**
+>
+> - ❌ If you have **never flashed a custom recovery or custom ROM before**, do **NOT** attempt this on your daily driver or primary device.
+> - 🧪 **First practice and experiment on another MediaTek device** you are willing to risk — get comfortable with the process before touching your Lava Play Ultra 5G.
+> - ⚠️ This device runs a **MediaTek (MTK) SoC** — it does **NOT** behave like a Snapdragon device. Commands, tools, and recovery methods are different. Do not assume knowledge from Snapdragon devices applies here.
+> - 💀 Flashing wrong files, wrong slots, or skipping steps **can permanently damage your device**.
+> - 📵 **I am not responsible for any damage, data loss, bootloops, or bricks caused to your device.** You proceed entirely at your own risk.
+>
+> **You have been warned. Proceed only if you know what you are doing.** ✅
+>
+> ---
+
 > ⚠️ **Read the entire guide before starting. Skipping steps may brick your device.**
 
 ---
