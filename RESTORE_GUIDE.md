@@ -93,7 +93,7 @@ Never select: `Format All + Download` ❌
 1. Disconnect the USB cable from your PC
 2. Power on your device
 3. Go to **Settings → System Updates** and install all available OTA updates one by one
-4. After all updates are done, **factory reset** your device
+4. After all updates are done, **reset your device via device setting or recovery** first
 5. Your device is now fully restored and ready to use! 🎉
 
 ---
