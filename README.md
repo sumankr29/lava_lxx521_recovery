@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 📱 Device Info
 
 | Feature | Details |
@@ -22,7 +20,6 @@
 | Resolution | 1080 × 2400 |
 | Android | 15 |
 
----
 
 ## ✅ Working Features
 
@@ -52,6 +49,17 @@ Refer to the full flashing guide here:
 👉 [FLASH_GUIDE.md](./FLASH_GUIDE.md)
 
 ---
+
+## 🙏 Thanks
+
+| Contributor | Contribution |
+|---|---|
+| [fahimfrk](https://github.com/fahimfrk/lxx521_Dimensity7300) | Device Tree |
+| [TWRP Team](https://github.com/TeamWin) | TWRP Recovery |
+| [OrangeFox Team](https://gitlab.com/OrangeFox-Recovery) | OrangeFox Recovery |
+
+---
+
 
 ## 💬 Bug Reports & Support
 
